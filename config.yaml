@@ -1,0 +1,5 @@
+# для обхода блокировки sematic_scholar
+PROXY:
+  HTTPS: 195.123.209.48:3128 # бесплатный proxy с https://proxymania.su/free-proxy?type=HTTPS&country=&speed=
+  # HTTP: 195.123.209.48:3128
+LIMIT: 10 #кол-во статей для поиска
